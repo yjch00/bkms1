@@ -1,8 +1,7 @@
-# bkms1
+# Paper Recommendation System
 
-2023 SNU BKMS TEAM16
+2023 SNU BKMS1 TEAM16
 
-Paper Recommendation System
 
 
 https://youtu.be/eUBIPqmaZTw
