@@ -8,7 +8,7 @@
 
 ### 2) Abstract Recommendation
 - 논문의 abstract를 input으로 입력
-- SimCSE를 이용한 임베딩 벡터 계산
+- [SimCSE](https://github.com/princeton-nlp/SimCSE)를 이용한 임베딩 벡터 계산
 - 벡터 유사도를 기반으로 논문 추천
 - Milvus Vector Database 이용
 
