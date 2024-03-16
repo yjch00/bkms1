@@ -1,6 +1,6 @@
 # Paper Recommendation System
 
-2023 SNU BKMS1 TEAM16
+2023 SNU BKMS1 TEAM16 (김현종, 정재원, 정철환, 조영재)
 
 ## 1) Citation Network Recommendation
 - Citation network의 relationship distance를 기반으로 논문 추천
